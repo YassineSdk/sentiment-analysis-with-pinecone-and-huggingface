@@ -1,4 +1,4 @@
-entiment Analysis with Pinecone and Hugging Face
+Sentiment Analysis with Pinecone and Hugging Face
 =================================================
 
 Overview
